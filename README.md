@@ -1,4 +1,4 @@
-# NLW-BOOTCAM-NLW
+# NLW-BOOTCAMP-ROCKESEAT
 <h1> Aplicação Web(React.Js) / Aplicação Mobile (ReactNative.Js) / Server Node.js </h1>
 <p> durante a semana 13/09/22 - 18/09/2022, participei do bootcamp da rocketseat onde tinha o intuito de desenvolver aplicação web em React.Js, aplicação mobile em ReactNative.js e aplicação back-end em Node.js </p>
 <br>
@@ -16,3 +16,9 @@
 <p> Aplicação com intuito de obter informações do server / banco de dados (Prisma), onde o usuario vai consegui, a partir do seu dispositivo movel, obter os dados dos usuarios que cadastraram na aplicação web e encontrar o seu duo nos cards. </p>
 <h2>Comandos Mobile </h2>
 <p>Usar: expo start </p>
+<br>
+<h2> Aplicação Node.js </h2>
+<p> Criação de uma API em Node.Js para envio de dados para o banco de dados e ser consumido pelas aplicações web e mobile </p>
+<h2>Comandos Server </h2>
+<p>abrir 2 terminais e  usar: NPX PRISMA STUDIO e NPX RUN DEV </p> 
+
