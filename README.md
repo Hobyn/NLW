@@ -1,5 +1,6 @@
 # NLW-BOOTCAM-NLW
 <h1> Aplicação Web(React.Js) / Aplicação Mobile (ReactNative.Js) / Server Node.js </h1>
+<p> durante a semana 13/09/22 - 18/09/2022, participei do bootcamp da rocketseat onde tinha o intuito de desenvolver aplicação web em React.Js, aplicação mobile em ReactNative.js e aplicação back-end em Node.js </p>
 <br>
 <h2> Aplicação Web </h2>
 
